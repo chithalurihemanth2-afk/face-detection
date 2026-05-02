@@ -5,7 +5,9 @@ An intelligent surveillance system that uses Deep Learning to recognize faces th
 ⚙️ How it works:
 Scenario	Logic	Siren Status
 Known Person---->Face matches your saved photos	❌ OFF
+
 Unknown Person ---->Face detected but no match found	✅ ON (ALARM)
+
 No Person ----->	No face detected in frame	❌ OFF
 1. Prerequisites
 Operating System: Windows 10/11
