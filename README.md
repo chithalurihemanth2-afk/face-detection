@@ -72,4 +72,5 @@ OpenCV-Contrib-Python: Latest (4.x)
 Detection Model: Caffe SSD (ResNet-10)
 Recognition Model: SFace (Deep Learning Embeddings)
 Audio Engine: Pygame 2.x
-  An  Priorix  Product
+ 
+     An  Priorix  Product
